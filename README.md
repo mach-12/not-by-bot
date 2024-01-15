@@ -1,6 +1,8 @@
 # Not-by-Bot: Authentic Human Content Certificate
 
 This project is dedicated to ensuring the authenticity of human-generated content. Our goal is to leverage 
+Vercel Demo: https://not-by-bot.vercel.app/
+Streamlit Demo: https://not-by-bot.streamlit.app/
 
 ## Technologies Used
 - **KerasNLP**
